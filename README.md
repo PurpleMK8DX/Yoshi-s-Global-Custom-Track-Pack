@@ -1,3 +1,7 @@
+# Yoshi's Global Custom Track Pack
+
+Yoshi's Global Custom Track Pack is a Mario kart Wii mod created by PurpleGamingDude98 this mod adds in over 359 Custom tracks that takes place from around the globe along with some gameplay changes that takes inspiration from other Mario Kart games. The author does plan on adding some unique modes to the pack in future updates and is looking for some help on expanding the modpack even further so if you are interested in helping out with the mod then feel free to join the Yoshi's Global Custom Track Pack Discord Server on author's Tockdom page.
+
 # Pulsar
 
 Pulsar is a Mario Kart Wii Kamek-Based engine to create CT distributions. It comes with its own [software](../main/PulsarPackCreator/Executable) to aid in building custom distributions, and multiple quality of life features:
