@@ -1,6 +1,35 @@
 # Yoshi's Global Custom Track Pack
 
-Yoshi's Global Custom Track Pack is a Mario kart Wii mod created by PurpleGamingDude98 this mod adds in over 359 Custom tracks that takes place from around the globe along with some gameplay changes that takes inspiration from other Mario Kart games. The author does plan on adding some unique modes to the pack in future updates and is looking for some help on expanding the modpack even further so if you are interested in helping out with the mod then feel free to join the Yoshi's Global Custom Track Pack Discord Server on author's Tockdom page.
+Yoshi's Global Custom Track Pack is a Mario Kart Wii mod created by PurpleGamingDude98. This mod adds in 359 Custom Tracks that takes place from around the globe as it aims to give the player a more unique relaxing but fun experience. This mod also adds in some lost features from past & present Mario Kart games, Alongside these changes this mod will also include some gameplay features like Item Rain, 9999cc, 500cc and loads more along with some QOL changes so if you are interested in joining the product then make sure to join the Yoshi's Global Custom Track Pack Discord server to help out
+
+## Licensing
+
+The majority of the source code here is licensed under the MIT License.
+
+Including [**mkw-sp**](https://github.com/mkw-sp/mkw-sp) ported features such as (see LICENSE_mkw-sp for more information):
+
+- Input Viewer
+
+
+However, **certain features are licensed under the AGPLv3** (GNU Affero General Public License v3). If you plan to use these features, the following conditions apply:
+
+- You are allowed to use, distribute, modify, and use the features privately, but must comply with these requirements:
+    - Disclose the source code of your project
+    - Include the license and display a copyright notice
+    - ~~Apply the same license to your project~~
+        - We **will not enforce a specific license for your project**. You are free to choose any license, as long as all other requirements are met.
+    - Specify the changes made to the original feature
+
+Beware that **Network use is distribution**, it means that Users who interact with the licensed material via network are given the right to receive a copy of the source code.
+
+The following features are licensed under AGPLv3:
+
+- Room kick page and feature implementation
+- The specific Discord Rich Presence implementation used by Retro Rewind and code associated
+- Item Rain code found in ItemRain.cpp
+
+**NOTE:** You can ask to be fully exempted from these licensing constraints, feel free to contact the code author(s)
+
 
 # Pulsar
 
